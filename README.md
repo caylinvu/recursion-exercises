@@ -1,2 +1,4 @@
 # recursion-exercises
-Recursion exercises from The Odin Project curriculum
+2 recursion exercises from The Odin Project curriculum:
+    - Fibonacci Sequence
+    - Merge Sort
